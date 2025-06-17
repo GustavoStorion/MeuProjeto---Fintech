@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.menu-lateral h3 {
+    font-weight: bold;
+}
+
+.nav-link.ativo {
+    background-color: #0d6efd;
+    color: white !important;
+    border-radius: 0.5rem;
+}
+
+.grupo {
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.titulo-grupo {
+    font-weight: bold;
+}
+
+.valor-total {
+    color: #000;
+}
